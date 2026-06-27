@@ -1,0 +1,23 @@
+{
+  "name": "Mis Ventas",
+  "short_name": "Mis Ventas",
+  "description": "Gestión de ventas",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f5f0",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
